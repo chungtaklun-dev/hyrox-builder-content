@@ -1,0 +1,45 @@
+{
+  "slug": "first-hyrox-five-things",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "第一次玩 HYROX",
+      "title": "最容易低估嘅\n5 件事"
+    },
+    {
+      "type": "point",
+      "number": "01",
+      "title": "ROXZONE\n都會食時間",
+      "subtitle": "入場、搵 station、補水、再出場\n唔好只計跑步同動作時間"
+    },
+    {
+      "type": "point",
+      "number": "02",
+      "title": "唔係一次過跑 8K\n但疲勞會一路累積",
+      "subtitle": "每段 1K 都接住 station\n頭段留力，先有節奏跑到尾"
+    },
+    {
+      "type": "point",
+      "number": "03",
+      "title": "Sled 完咗\n雙腳未必即刻回復",
+      "subtitle": "Push 同 pull 各有 50m\n出 station 先穩住步頻，唔使急衝"
+    },
+    {
+      "type": "point",
+      "number": "04",
+      "title": "跳得遠\n唔等於做得快",
+      "subtitle": "80m 要守足動作標準\n用可重複嘅步幅，少啲停頓同碎步"
+    },
+    {
+      "type": "point",
+      "number": "05",
+      "title": "最後 100 下\n最怕 no-rep",
+      "subtitle": "髖要低過膝，球要中正確 target\n預先分組，疲勞下都守住動作"
+    },
+    {
+      "type": "cta",
+      "title": "Save 低\n賽前再睇",
+      "handle": "Follow @hyrox_builder"
+    }
+  ]
+}
