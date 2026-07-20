@@ -1,0 +1,21 @@
+{
+  "slug": "first-hyrox-five-things",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "第一次玩 HYROX",
+      "title": "最容易低估嘅\n5 件事"
+    },
+    {
+      "type": "point",
+      "number": "01",
+      "title": "ROXZONE 都會食時間",
+      "subtitle": "唔好淨係計跑步同 station 時間"
+    },
+    {
+      "type": "cta",
+      "title": "Save 低\n賽前再睇",
+      "handle": "Follow @hyrox_builder"
+    }
+  ]
+}
