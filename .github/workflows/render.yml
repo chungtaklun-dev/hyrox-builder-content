@@ -46,12 +46,13 @@ jobs:
 
       - name: Commit generated PNG files
         run: |
-          git add docs/generated
-          if git diff --cached --quiet; then
-            echo "No generated image changes."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/generated
+          if git diff --cached --quiet; then
+            echo "No generated image changes"
+            exit 0
+          fi
           git commit -m "Render carousel images"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
